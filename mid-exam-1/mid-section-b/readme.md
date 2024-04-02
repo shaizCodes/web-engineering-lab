@@ -2,9 +2,9 @@
 
 ## 📝 Task Description
 
-Student Name : -------------------
+Student Name : Shahzad
 
-Student CMS : -------------------
+Student CMS : 021-21-0092
 
 you are required to create a simple image slider with navigation buttons. The image slider should allow users to navigate between images by clicking on left and right navigation buttons and show the thumbnails below the slider and show which picture is active.
 

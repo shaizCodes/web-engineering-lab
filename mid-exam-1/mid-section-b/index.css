@@ -1,0 +1,15 @@
+img {
+    border: 1px solid black;
+}
+#current {
+    opacity: 1 !important;
+}
+#navigation {
+    display: flex;
+    gap: 10px;
+    height: 10vw;
+    justify-content: center;
+}
+img:not(.active) {
+    opacity: .25;
+}
